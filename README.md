@@ -79,6 +79,8 @@ Sorting-algorithm/
 
 ## Screenshot
 
-![Sorting Algorithm Visualizer](Screenshot 2026-01-01 015606.png)
+![Sorting Algorithm Visualizer](Screenshot%202026-01-01%20015606.png)
+
 
 ---
+
